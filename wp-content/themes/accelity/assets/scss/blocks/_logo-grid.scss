@@ -1,0 +1,11 @@
+.logo-grid-block{
+  .grid-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 30px;
+    @include media(tablet){
+      padding: 50px 70px;
+    }
+  }
+}

@@ -1,0 +1,21 @@
+.bg-primary{
+  color: $white;
+  background-color: $primaryColor;
+}
+
+.bg-secondary{
+  background-color: $secondaryColor;
+  color: $white;
+}
+
+.bg-tertiary{
+  background-color: $tertiaryColor;
+  color: $white;
+}
+
+.dark-bg{
+  background-color: $primaryColor;
+  h1,h2,h3,h4,h5,h6,p{
+    color: $white !important;
+  }
+}
