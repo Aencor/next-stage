@@ -1,4 +1,4 @@
-# Accelity WordPress Theme
+# Next Stage WordPress Theme
  Acceklity Marketing New Website Code
  
 ## Requirements
