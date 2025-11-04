@@ -44,7 +44,7 @@ You will find all tou need to work under the route wp-content/themes/accelity
 
 - wp-content
   - themes
-    - accelity
+    - next-stage
       - assets (On this folder you will find the css, js and image elements)
         - scss (Here you must place all your scss files)
         - js (all JS files goes in here)
